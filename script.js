@@ -7,7 +7,7 @@ function init () {
     const paragraph = document.getElementById("statusReport");
 
     // Put your code for the exercises here.
-  document.getElementByid("liftoffButton");
+  document.getElementById("liftoffButton");
     
 }
 
