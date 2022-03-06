@@ -1,0 +1,25 @@
+  
+<!--https://replit.com/@Hcoder/Exercises-DOM-and-Events#index.html(home)/2022LC101janWork/exercisesLC101/CH22to30cssDOMgitFormsJSONtypeScrAngular/Ch20to23HTMLcssGitDOMhttp/-
+Ch23DOMexercise1
+stored in D:\LessImp\1qLimisc\ReplitUploads\classEx\ChLC101\ch20to23htmlCSSgitDOM
+
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Flight Simulator</title>
+        <link rel="stylesheet" type="text/css" href="style.css"/>
+        <script src = "script.js"></script>
+    </head>
+    <body>
+        <h1>Flight Simulator</h1>
+        <p id="statusReport">The shuttle is on the ground</p>
+        <button id = "liftoffButton">Take off</button>
+        <button id = "abortMission">Abort mission</button>
+    </body>
+</html>
+
+
+
+
+
